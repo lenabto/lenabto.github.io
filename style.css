@@ -1,0 +1,14 @@
+body {
+background: pink;
+text-align: center;
+}
+
+h1 { 
+	color: green; 
+	font-family: arial;
+}
+
+h3, ul {
+	text-align: left;
+}
+
